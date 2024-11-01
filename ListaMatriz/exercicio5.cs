@@ -6,8 +6,7 @@ class exercicio5
     static void Main()
     {
 
-        int linha, coluna, resul;
-
+        int linha, coluna;
         Console.WriteLine("Digite quantas linhas e colunas vai ter na matriz:");
         linha = int.Parse(Console.ReadLine());
         coluna = int.Parse(Console.ReadLine());
@@ -20,7 +19,7 @@ class exercicio5
         for (int i = 0; i < coluna; i++)
         {
             Console.Write($"{matriz[i, coluna - 1 - i]} || ");
-        }
+        } 
 
         Console.WriteLine("\n");
         Console.ReadKey();

@@ -1,42 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\",
+  "WorkspaceRootPath": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\diaas\\source\\repos\\listamatriz\\listamatriz\\exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\14470442666\\downloads\\lista-matrizes\\listamatriz\\exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\diaas\\source\\repos\\listamatriz\\listamatriz\\listamatriz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\listamatriz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\diaas\\source\\repos\\listamatriz\\listamatriz\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\diaas\\source\\repos\\listamatriz\\listamatriz\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\14470442666\\downloads\\lista-matrizes\\listamatriz\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\diaas\\source\\repos\\listamatriz\\listamatriz\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\diaas\\source\\repos\\listamatriz\\listamatriz\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\diaas\\source\\repos\\listamatriz\\listamatriz\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\14470442666\\downloads\\lista-matrizes\\listamatriz\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\diaas\\source\\repos\\listamatriz\\listamatriz\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\14470442666\\downloads\\lista-matrizes\\listamatriz\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\diaas\\source\\repos\\listamatriz\\listamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\14470442666\\downloads\\lista-matrizes\\listamatriz\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\14470442666\\downloads\\lista-matrizes\\listamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\14470442666\\downloads\\lista-matrizes\\listamatriz\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|c:\\users\\14470442666\\downloads\\lista-matrizes\\listamatriz\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6A3829-F3D3-4819-B9A5-AA6D506C11C3}|ListaMatriz\\ListaMatriz.csproj|solutionrelative:listamatriz\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +42,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListaMatriz",
-              "DocumentMoniker": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\ListaMatriz.csproj",
-              "RelativeDocumentMoniker": "ListaMatriz\\ListaMatriz.csproj",
-              "ToolTip": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\ListaMatriz.csproj",
-              "RelativeToolTip": "ListaMatriz\\ListaMatriz.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-30T21:13:35.107Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "exercicio6.cs",
-              "DocumentMoniker": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio6.cs",
+              "DocumentMoniker": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio6.cs",
               "RelativeDocumentMoniker": "ListaMatriz\\exercicio6.cs",
-              "ToolTip": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio6.cs",
+              "ToolTip": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio6.cs",
               "RelativeToolTip": "ListaMatriz\\exercicio6.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T21:07:49.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "exercicio5.cs",
-              "DocumentMoniker": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio5.cs",
               "RelativeDocumentMoniker": "ListaMatriz\\exercicio5.cs",
-              "ToolTip": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio5.cs",
+              "ToolTip": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio5.cs",
               "RelativeToolTip": "ListaMatriz\\exercicio5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:47:41.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T20:47:41.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "exercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio4.cs",
+              "RelativeDocumentMoniker": "ListaMatriz\\exercicio4.cs",
+              "ToolTip": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio4.cs",
+              "RelativeToolTip": "ListaMatriz\\exercicio4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:27:16.069Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "exercicio4.cs",
-              "DocumentMoniker": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio4.cs",
-              "RelativeDocumentMoniker": "ListaMatriz\\exercicio4.cs",
-              "ToolTip": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio4.cs",
-              "RelativeToolTip": "ListaMatriz\\exercicio4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:27:16.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "exercicio3.cs",
-              "DocumentMoniker": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio3.cs",
               "RelativeDocumentMoniker": "ListaMatriz\\exercicio3.cs",
-              "ToolTip": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio3.cs",
+              "ToolTip": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio3.cs",
               "RelativeToolTip": "ListaMatriz\\exercicio3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:13:26.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T20:13:26.236Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "exercicio2.cs",
-              "DocumentMoniker": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio2.cs",
               "RelativeDocumentMoniker": "ListaMatriz\\exercicio2.cs",
-              "ToolTip": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio2.cs",
+              "ToolTip": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio2.cs",
               "RelativeToolTip": "ListaMatriz\\exercicio2.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:09:10.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T20:09:10.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "exercicio1.cs",
-              "DocumentMoniker": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio1.cs",
               "RelativeDocumentMoniker": "ListaMatriz\\exercicio1.cs",
-              "ToolTip": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\exercicio1.cs",
+              "ToolTip": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\exercicio1.cs",
               "RelativeToolTip": "ListaMatriz\\exercicio1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T18:32:04.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T18:32:04.03Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Matriz.cs",
-              "DocumentMoniker": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\Matriz.cs",
+              "DocumentMoniker": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\Matriz.cs",
               "RelativeDocumentMoniker": "ListaMatriz\\Matriz.cs",
-              "ToolTip": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\Matriz.cs",
+              "ToolTip": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\Matriz.cs",
               "RelativeToolTip": "ListaMatriz\\Matriz.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T18:29:47.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T18:29:47.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\Program.cs",
               "RelativeDocumentMoniker": "ListaMatriz\\Program.cs",
-              "ToolTip": "C:\\Users\\Diaas\\source\\repos\\ListaMatriz\\ListaMatriz\\Program.cs",
+              "ToolTip": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\Program.cs",
               "RelativeToolTip": "ListaMatriz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T18:28:16.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T18:28:16.759Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaMatriz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c7cdf3b996c959c93ca5ca9d2b9a8145d05a88")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaMatriz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaMatriz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

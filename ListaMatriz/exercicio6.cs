@@ -3,7 +3,7 @@ using Biblioteca_Matriz;
 
 class exercicio6
 {
-    static int somaMatriz(int linha, int coluna, int[,] matriz1, int[,] matriz2)
+    static int[,] somaMatriz(int linha, int coluna, int[,] matriz1, int[,] matriz2)
     {
         int resul;
         int[,] matriz3 = new int[linha, coluna];
@@ -15,12 +15,13 @@ class exercicio6
             }
         }
         Matriz.mostra(matriz3 );
-        return matriz3[linha, coluna];
+        return matriz3;
 
     }
     static void Main()
     {
-        int linha1, linha2, coluna1, coluna2, resul;
+        int linha1, linha2, coluna1, coluna2;
+
         Console.WriteLine("Digite quantas linhas e colunas vai ter na primeira matriz:");
         linha1 = int.Parse(Console.ReadLine());
         coluna1 = int.Parse(Console.ReadLine());
@@ -39,32 +40,17 @@ class exercicio6
         Matriz.mostra(matriz2);
         Console.WriteLine();
 
-
-
-        resul = somaMatriz(linha1, coluna1, matriz1, matriz2);
-        Console.Write(resul);
-
-     /*   int[,] matriz3 = new int[linha1, coluna1];
         if (linha1 == linha2)
         {
-            if(coluna1 == coluna2)
+            if (coluna1 == coluna2)
             {
-                
-                for(int i = 0; i < linha1; i++)
-                {
-                    for (int j = 0; j < coluna2; j++)
-                    {
-                        matriz3[i, j] = matriz1[i,j] + matriz2[i,j];
-                    }
-                }
+                Console.WriteLine("A soma das matrizes:"); 
+                int[,] resul = new int[linha1, coluna1];
+                resul = somaMatriz(linha1, coluna1, matriz1, matriz2);
             }
-            Matriz.mostra(matriz3);
-        }
-        else
-        {
+        } else
             Console.WriteLine("As matrizes nao sao de mesma ordem para realizar a soma");
-        } */
 
-        
+
     }
 }

@@ -26,7 +26,7 @@ class exercicio1 {
 
             int[,] matriz = new int[linha, coluna];
             Matriz.leia(matriz);
-            resul = maiorValor(linha, coluna,matriz);
+            resul = maiorValor(linha, coluna, matriz);
             Console.WriteLine();
             Matriz.mostra(matriz);
             Console.WriteLine();
