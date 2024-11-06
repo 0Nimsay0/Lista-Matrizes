@@ -3,6 +3,14 @@ using Biblioteca_Matriz;
 
 class exercicio5
 {
+    static void diagonalSecundaria(int[,] matriz)
+    {
+       int colunas = matriz.GetLength(0);
+        for (int i = 0; i < colunas; i++)
+        {
+            Console.Write($"{matriz[i, colunas - 1 - i]} || ");
+        }
+    }
     static void Main()
     {
 
@@ -16,10 +24,7 @@ class exercicio5
         Matriz.mostra(matriz);
         Console.WriteLine();
 
-        for (int i = 0; i < coluna; i++)
-        {
-            Console.Write($"{matriz[i, coluna - 1 - i]} || ");
-        } 
+        diagonalSecundaria(matriz);
 
         Console.WriteLine("\n");
         Console.ReadKey();

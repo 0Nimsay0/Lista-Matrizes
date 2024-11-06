@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\ListaMatriz.csproj": {}
+    "C:\\Users\\Diaas\\source\\repos\\Lista-Matrizes\\ListaMatriz\\ListaMatriz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\ListaMatriz.csproj": {
+    "C:\\Users\\Diaas\\source\\repos\\Lista-Matrizes\\ListaMatriz\\ListaMatriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\ListaMatriz.csproj",
+        "projectUniqueName": "C:\\Users\\Diaas\\source\\repos\\Lista-Matrizes\\ListaMatriz\\ListaMatriz.csproj",
         "projectName": "ListaMatriz",
-        "projectPath": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\ListaMatriz.csproj",
-        "packagesPath": "C:\\Users\\14470442666\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\14470442666\\Downloads\\Lista-Matrizes\\ListaMatriz\\obj\\",
+        "projectPath": "C:\\Users\\Diaas\\source\\repos\\Lista-Matrizes\\ListaMatriz\\ListaMatriz.csproj",
+        "packagesPath": "C:\\Users\\Diaas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diaas\\source\\repos\\Lista-Matrizes\\ListaMatriz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\14470442666\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Diaas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
